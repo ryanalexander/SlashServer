@@ -1,0 +1,10 @@
+{
+  "id": "slashserver",
+  "name": "SlashServer",
+  "version": "${project.version}",
+  "description": "Create slash commands for all your registered servers.",
+  "url": "https://github.com/ryanalexander/slashserver",
+  "authors": ["AspyTheAussie"],
+  "dependencies": [],
+  "main": "io.aspy.slashserver.SlashServer"
+}
